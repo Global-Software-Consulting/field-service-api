@@ -1,0 +1,227 @@
+[
+  {
+    "crewId": "CREW-02",
+    "crewName": "FRGHLT FL80 - LG D/D (50') W/WINCH",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-03",
+    "crewName": "FRGHTL FL70 - MED BKT (41')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-04",
+    "crewName": "CHEV 4WD PICKUP - XCAB",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-05",
+    "crewName": "CREW-05",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-06",
+    "crewName": "FORD F800 - LG BKT (55') - ELBOW BOOM",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-07",
+    "crewName": "FRGHTL FL80 - LG BKT 55' - ELBOW BOOM",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-08",
+    "crewName": "MCMENAMY, NEIL",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-10",
+    "crewName": "MISC STORM CREW",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-11",
+    "crewName": "CHEV C7H042 - MED BKT (45')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-13",
+    "crewName": "FRGHTL FL80 - LG BKT (55')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-14",
+    "crewName": "CHEV C7H042 - MED BKT (45')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-15",
+    "crewName": "FRGHTL FL70 - MED BKT (41')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-16",
+    "crewName": "FRGHTL FL70 MED BKT (42')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-18",
+    "crewName": "FORD LNT8000 - LG D/D (50') W/WINCH",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-20",
+    "crewName": "MISC STORM CREW",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-21",
+    "crewName": "GMC 7000 - MED D/D (45')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-22",
+    "crewName": "CREW 22",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-23",
+    "crewName": "FORD LNT8000 LG D/D (50')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-24",
+    "crewName": "FRGHTL FL80 XLG D/D (55')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-25",
+    "crewName": "CREW-25",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-27",
+    "crewName": "CREW-27",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-29",
+    "crewName": "FORD LNT8000 XLG D/D (55') W/WINCH",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-34",
+    "crewName": "CREW-34",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-35",
+    "crewName": "FORD FT900 LG D/D (45')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-37",
+    "crewName": "FRGHTL FL180 - LG WIRE - CRANE",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-38",
+    "crewName": "CHEV K3500 PICKUP - LINE",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-39",
+    "crewName": "FRGHTL FL70 MED BKT (45')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-41",
+    "crewName": "CREW41 MISC CREW",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-43",
+    "crewName": "FRGHTL FL80 TANDEM LG D/D (50') W/WINCH",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-44",
+    "crewName": "FRGHTL FL70 SM BKT (41')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-47",
+    "crewName": "FRGHTL FL80 XLG D/D (55')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-49",
+    "crewName": "FORD F700 MED BKT (40')",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-51",
+    "crewName": "INTL 4700 SM BKT",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-56",
+    "crewName": "CREW-56",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-62",
+    "crewName": "CHEV4WD X-CAB LINE P/U",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-65",
+    "crewName": "DODGE 3500 4WD LINE P/U",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-69",
+    "crewName": "GMC C7H064 BKT",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-71",
+    "crewName": "CREW-71",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-73",
+    "crewName": "ROSINE, BRUCE",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-77",
+    "crewName": "CREW-77",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-79",
+    "crewName": "DIGGER/DERRICK",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-81",
+    "crewName": "WATSON, DICK",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-84",
+    "crewName": "OUTDOOR LIGHTING MAINTENANCE TRUCK",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-89",
+    "crewName": "CREW 89",
+    "crewType": "CREW"
+  },
+  {
+    "crewId": "CREW-MAIN",
+    "crewName": "GENERAL MAINTENANCE CREW",
+    "crewType": "CREW"
+  }
+]
