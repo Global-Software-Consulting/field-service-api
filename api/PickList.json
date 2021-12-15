@@ -1,0 +1,58 @@
+[
+  {
+    "paprojnumber": "W2102812",
+    "itemnmbr": "1844",
+    "itemdesc": "CLAMP, GROUND ROD, COPPER, 1/0 STR TO 8 SOL",
+    "bin": "A-05-4",
+    "planQty": 1
+  },
+  {
+    "paprojnumber": "W2102812",
+    "itemnmbr": "8434",
+    "itemdesc": "GRIP, CABLE SUPPORT, 1/0 - #2 - 1/0 AND 4/0-2/0-4/0",
+    "bin": "B-04-2",
+    "planQty": 1
+  },
+  {
+    "paprojnumber": "W2102812",
+    "itemnmbr": "8510",
+    "itemdesc": "GROUNDING LUG, U-GUARD, STAINLESS",
+    "bin": "B-04-2",
+    "planQty": 1
+  },
+  {
+    "paprojnumber": "W2102812",
+    "itemnmbr": "4797",
+    "itemdesc": "DRIVE HOOK",
+    "bin": "B-05-2",
+    "planQty": 1
+  },
+  {
+    "paprojnumber": "W2102812",
+    "itemnmbr": "9917",
+    "itemdesc": "CABLE, SECONDARY, 4/0-2/0-4/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+    "bin": "YARD",
+    "planQty": 80
+  },
+  {
+    "paprojnumber": "W2102812",
+    "itemnmbr": "10208",
+    "itemdesc": "2\" FLEX CONDUIT RED W/1250LB POLY TAPE 250FT COIL",
+    "bin": "YARD",
+    "planQty": 80
+  },
+  {
+    "paprojnumber": "W2102812",
+    "itemnmbr": "6069",
+    "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+    "bin": "YB-09-1",
+    "planQty": 30
+  },
+  {
+    "paprojnumber": "W2102812",
+    "itemnmbr": "4667",
+    "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+    "bin": "YVEHSTR",
+    "planQty": 1
+  }
+]
