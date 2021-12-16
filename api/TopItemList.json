@@ -1,0 +1,592 @@
+[
+  {
+    "itemnmbr": "8136",
+    "itemdesc": "ELBOW, LOADBREAK #2 SOLID ALUMINUM URD",
+    "stocksubtype": "RUBBER GOODS"
+  },
+  {
+    "itemnmbr": "8320",
+    "itemdesc": "HEAT SHRINK TUBE 24\", FOR #2 & 4/0 PRIMARY SPLICES",
+    "stocksubtype": "RUBBER GOODS"
+  },
+  {
+    "itemnmbr": "8325",
+    "itemdesc": "HEAT SHRINK KIT, 6\" FOR SEALING #2 OR 4/0 PRIMARY CABLE AT ELBOWS",
+    "stocksubtype": "RUBBER GOODS"
+  },
+  {
+    "itemnmbr": "8860",
+    "itemdesc": "SPLICE #2 SOLID ALUMINUM URD PRIMARY CABLE",
+    "stocksubtype": "RUBBER GOODS"
+  },
+  {
+    "itemnmbr": "8865",
+    "itemdesc": "SPLICE KIT, CABLE REPAIR #2 SOLID ALUMINUM 220 MIL",
+    "stocksubtype": "RUBBER GOODS"
+  },
+  {
+    "itemnmbr": "8930",
+    "itemdesc": "INSULATOR, STAND-OFF, 200 AMP",
+    "stocksubtype": "RUBBER GOODS"
+  },
+  {
+    "itemnmbr": "9144",
+    "itemdesc": "GROUNDED PROTECTIVE CAP,  200 AMP",
+    "stocksubtype": "RUBBER GOODS"
+  },
+  {
+    "itemnmbr": "5501",
+    "itemdesc": "ARM, 2', FOR NEMA HEAD LUMINAIRE",
+    "stocksubtype": "MISC. PARTS"
+  },
+  {
+    "itemnmbr": "9713",
+    "itemdesc": "SECONDARY POWER ENCLOSURE - PED (LARGE)",
+    "stocksubtype": "MISC. PARTS"
+  },
+  {
+    "itemnmbr": "0156",
+    "itemdesc": "ANCHOR, POWER 12\" HELIX",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0223",
+    "itemdesc": "ARRESTER,  LIGHTNING, METAL OXIDE  (RISER POLE), MOV 10KV, POLYMER",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0228",
+    "itemdesc": "ARRESTER, DISTRIBUTION, POLYMER, 10KV MOV, HEAVY DUTY, COMPLETE WITH GROUND",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0229",
+    "itemdesc": "ARRESTER, DEADFRONT, ELBOW, MOV",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0367",
+    "itemdesc": "GUY ATTACHMENT",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0500",
+    "itemdesc": "BOLT, CARRIAGE 3/8\" X 6\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0827",
+    "itemdesc": "BOLT, EYE 5/8\" X 10\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0834",
+    "itemdesc": "BOLT EYE 5/8\" X 12\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0924",
+    "itemdesc": "BOLT, MACHINE 5/8\" X 9\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0928",
+    "itemdesc": "BOLT, MACHINE 5/8\" X 10\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0932",
+    "itemdesc": "BOLT, MACHINE 5/8\" X 12\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1080",
+    "itemdesc": "BOLT, SINGLE UPSET 5/8\" X 10\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1304",
+    "itemdesc": "BRACE,  CROSSARM 38\" SPAN",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1308",
+    "itemdesc": "BRACE, CROSSARM, FOR 60\" SPAN",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1310",
+    "itemdesc": "BRACE, CROSSARM 84\" SPAN",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1440",
+    "itemdesc": "BRACKET, MOUNTING, CUTOUT OR ARRESTER",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1441",
+    "itemdesc": "BRACKET, MOUNTING, CUTOUT-ARRESTER-TERMINATOR",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1445",
+    "itemdesc": "CROSSARM MOUNTING BRACKET FOR CUTOUT",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1738",
+    "itemdesc": "CLAMP, GUY BONDING, THIMBLEYE POWER ANCHOR ROD 3/4\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1844",
+    "itemdesc": "CLAMP, GROUND ROD, COPPER, 1/0 STR TO 8 SOL",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "1961",
+    "itemdesc": "CLAMP, HOT LINE 1/0 COPPER - 8A",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "2069",
+    "itemdesc": "DEADEND, GUY GRIP  5/16\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "2275",
+    "itemdesc": "CLEVIS, RIGID",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "2281",
+    "itemdesc": "ANCHOR  SHACKLE",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "2283",
+    "itemdesc": "FORGED LINK",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "2715",
+    "itemdesc": "DEADEND,  SIDE LOADING,  #2  & 1/0",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "2726",
+    "itemdesc": "DEADEND, PREFORMED 1/0 SERVICE GRIP",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "2731",
+    "itemdesc": "DEADEND, PREFORMED, #2 SERVICE GRIP",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3051",
+    "itemdesc": "GUY MARKER, YELLOW PLASTIC 8', W/ CENTERED 10 INCH REFLECTIVE TAPE",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3161",
+    "itemdesc": "GUY STRAND, 10M,  ALUMINUM CLAD STEEL  (5/16\")  500' COIL",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3303",
+    "itemdesc": "INSULATOR, PIN TYPE (63) POLYMER",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3313",
+    "itemdesc": "INSULATOR, LINE POST (STACK), C-NECK POLYMER",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3314",
+    "itemdesc": "CROSSARM STUD FOR LINE POST INSULATOR",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3315",
+    "itemdesc": "POLE TOP PIN STUD (FOR 3313)",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3323",
+    "itemdesc": "INSULATOR, SUSPENSION PORCELAIN BELL & RUBBER SKIRT",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3328",
+    "itemdesc": "INSULATOR, SPOOL 3\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3663",
+    "itemdesc": "NUT, OVAL EYE 5/8\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3873",
+    "itemdesc": "POLE TOP BRACKET",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3877",
+    "itemdesc": "POLE TOP PIN",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "3883",
+    "itemdesc": "CROSSARM PIN",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "4667",
+    "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "4797",
+    "itemdesc": "DRIVE HOOK",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "4799",
+    "itemdesc": "SCREW, LAG   1/2\"X4\"",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "6384",
+    "itemdesc": "WASHER, SQUARE CURVED, 3\" WITH 11/16\" HOLE",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "6822",
+    "itemdesc": "WIREHOLDER, SCREW",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "6833",
+    "itemdesc": "WIREHOLDER, MAST",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "7509",
+    "itemdesc": "TERMINATOR, OUTDOOR #2 SOLID ALUMINUM URD",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "7902",
+    "itemdesc": "BRACKET, MNTNG FOR TERMINAL POLE TERM, #2 SOLID ALUM",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "8230",
+    "itemdesc": "U-GUARD, CABLE RISER STEEL 2\" X 5', GROUNDING HOLE 8\" FROM END",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "8231",
+    "itemdesc": "U-GUARD, CABLE RISER STEEL 3\" X 5', GROUNDING HOLE 8\" FROM END",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "8238",
+    "itemdesc": "U-GUARD, CABLE RISER, PVC 2\" X 10'",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "8239",
+    "itemdesc": "U-GUARD, CABLE RISER PVC 3\" X 10'",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "8434",
+    "itemdesc": "GRIP, CABLE SUPPORT, 1/0 - #2 - 1/0 AND 4/0-2/0-4/0",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "8440",
+    "itemdesc": "GRIP, CABLE SUPPORT, #2 SOLID ALUMINUM URD",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "8510",
+    "itemdesc": "GROUNDING LUG, U-GUARD, STAINLESS",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "9200",
+    "itemdesc": "LOADBREAK FEED THRU",
+    "stocksubtype": "HARDWARE"
+  },
+  {
+    "itemnmbr": "0245",
+    "itemdesc": "CUTOUT, 7.8KV OPEN TYPE, POLYMER, WITHOUT BRACKET",
+    "stocksubtype": "CUTOUTS"
+  },
+  {
+    "itemnmbr": "2507",
+    "itemdesc": "CROSSARM, WOOD 3-3/4\" X 4-3/4\" X 8'",
+    "stocksubtype": "CROSSARMS"
+  },
+  {
+    "itemnmbr": "2511",
+    "itemdesc": "CROSSARM, WOOD 3 3/4\" X 4 3/4\" X 12'",
+    "stocksubtype": "CROSSARMS"
+  },
+  {
+    "itemnmbr": "2515",
+    "itemdesc": "CROSSARM, WOOD 3 3/4\" X 4 3/4\" X 10'",
+    "stocksubtype": "CROSSARMS"
+  },
+  {
+    "itemnmbr": "2532",
+    "itemdesc": "CROSSARM, DEADEND, BRACELESS, FIBERGLASS, 3 5/8\" X 4 5/8\"X8', BROWN",
+    "stocksubtype": "CROSSARMS"
+  },
+  {
+    "itemnmbr": "2422",
+    "itemdesc": "CONNECTOR, SPLIT BOLT, #2 COPPER",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "2438",
+    "itemdesc": "CONNECTOR, #8 TO 1/0 ALL PURPOSE R-12",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "2484",
+    "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "2495",
+    "itemdesc": "EYEBOLT CONNECTOR   #10-350, FOR OH TRANSFORMER",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4800",
+    "itemdesc": "CRIMPIT, COPPER #6 - #6   (RUN: 6 SOL-4 STR  TAP: 6 SOL-6 STR)",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4803",
+    "itemdesc": "CRIMPIT, COPPER #4 -  #4",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4939",
+    "itemdesc": "SLEEVE, SERVICE ENTRANCE #2 - #4",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4940",
+    "itemdesc": "SLEEVE, SERVICE  ENTRANCE 4/0 - 4/0",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4941",
+    "itemdesc": "SLEEVE, SERVICE  ENTRANCE  4/0 - 1/0",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4942",
+    "itemdesc": "SLEEVE, SERVICE  ENTRANCE  2/0 - 2/0",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4943",
+    "itemdesc": "SLEEVE, SERVICE ENTRANCE  1/0 - 1/0",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4944",
+    "itemdesc": "SLEEVE, SERVICE ENTRANCE 2/0 - #2",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4945",
+    "itemdesc": "SLEEVE, SERVICE ENTRANCE  #2 - #2",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4946",
+    "itemdesc": "SLEEVE, SERVICE ENTRANCE  #4 - #4",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4948",
+    "itemdesc": "SLEEVE, SERVICE ENTRANCE  #6 - #6",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4949",
+    "itemdesc": "SLEEVE, SERVICE  ENTRANCE 1/0 - #2",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4950",
+    "itemdesc": "SLEEVE, TRIPLEX NEUTRAL 1/0 - 1/0",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4951",
+    "itemdesc": "SLEEVE, TRIPLEX NEUTRAL #2 - #2",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4956",
+    "itemdesc": "SLEEVE, SQUEEZON 4/0 - 2ACSR  (#5)",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4958",
+    "itemdesc": "SLEEVE, SQUEEZON, 1/0 - 1/0",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4959",
+    "itemdesc": "SLEEVE, SQUEEZON 1/0 - #6  (#2)",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4961",
+    "itemdesc": "SLEEVE, SQUEEZON 4/0 - 1/0  (#6)",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4966",
+    "itemdesc": "SLEEVE, SQUEEZON #6  - #12",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4968",
+    "itemdesc": "SLEEVE, COPPER 8 ACWC  AUTOMATIC",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4973",
+    "itemdesc": "SLEEVE, COPPER 6 ACWC  AUTOMATIC",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4990",
+    "itemdesc": "SLEEVE, AUTOMATIC , #4 & #2 ACSR",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4991",
+    "itemdesc": "SLEEVE, AUTOMATIC 1/0 ACSR",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4995",
+    "itemdesc": "SLEEVE, SECONDARY  UG REPAIR 2/0 ALUMINUM",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "4996",
+    "itemdesc": "SLEEVE, SECONDARY  UG REPAIR 4/0 ALUMINUM",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "5000",
+    "itemdesc": "CONNECTOR, PARALLEL  GROVE 477ACSR-#6 THRU 2/0CU",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "5381",
+    "itemdesc": "STIRRUP,  6A AND 8A",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "7732",
+    "itemdesc": "CONNECTOR, INSULATED FOR 5/8\" STUD  6-350",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "7736",
+    "itemdesc": "CONNECTOR, BARE  FOR 5/8\" STUD   6-350",
+    "stocksubtype": "CONNECTORS"
+  },
+  {
+    "itemnmbr": "10207",
+    "itemdesc": "1-1/2\" FLEX CONDUIT RED W/1250LB POLY TAPE 250FT COIL",
+    "stocksubtype": "CONDUIT"
+  },
+  {
+    "itemnmbr": "10208",
+    "itemdesc": "2\" FLEX CONDUIT RED W/1250LB POLY TAPE 250FT COIL",
+    "stocksubtype": "CONDUIT"
+  },
+  {
+    "itemnmbr": "7635",
+    "itemdesc": "CONDUIT, PVC 2\" X 10' SECTION, SCHEDULE 80",
+    "stocksubtype": "CONDUIT"
+  },
+  {
+    "itemnmbr": "6022",
+    "itemdesc": "CABLE, SECONDARY,INSULATED 600V, #6, 7-STRAND COPPER 1000' REEL",
+    "stocksubtype": "CABLE"
+  },
+  {
+    "itemnmbr": "6056",
+    "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+    "stocksubtype": "CABLE"
+  },
+  {
+    "itemnmbr": "6057",
+    "itemdesc": "WIRE, #4 SOLID SOFT DRAWN ALUMINUM TIE",
+    "stocksubtype": "CABLE"
+  },
+  {
+    "itemnmbr": "6069",
+    "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+    "stocksubtype": "CABLE"
+  },
+  {
+    "itemnmbr": "6079",
+    "itemdesc": "WIRE, TIE #8  BARE SD SOLID COPPER, 500' SPOOL",
+    "stocksubtype": "CABLE"
+  },
+  {
+    "itemnmbr": "9911",
+    "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+    "stocksubtype": "CABLE"
+  },
+  {
+    "itemnmbr": "9917",
+    "itemdesc": "CABLE, SECONDARY, 4/0-2/0-4/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+    "stocksubtype": "CABLE"
+  },
+  {
+    "itemnmbr": "9921",
+    "itemdesc": "CABLE, SECONDARY 1/0-#2-1/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+    "stocksubtype": "CABLE"
+  },
+  {
+    "itemnmbr": "9482",
+    "itemdesc": "BOX PAD FOR 1PH TRANSFORMER, 37\"X43\"X15\"  OPENING: 22\" X 26\"",
+    "stocksubtype": "BASEMENT"
+  },
+  {
+    "itemnmbr": "9715",
+    "itemdesc": "SECONDARY POWER ENCLOSURE",
+    "stocksubtype": "BASEMENT"
+  },
+  {
+    "itemnmbr": "9716",
+    "itemdesc": "PEDESTAL, 1PH PRIMARY SECTIONALIZING, 30 X 30 X 18",
+    "stocksubtype": "BASEMENT"
+  },
+  {
+    "itemnmbr": "9720",
+    "itemdesc": "PRIMARY JUNCTION ENCLOSURE 3PH, 200AMP, DEADFRONT, 30 X 67 X 23",
+    "stocksubtype": "BASEMENT"
+  }
+]
