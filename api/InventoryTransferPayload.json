@@ -1,0 +1,34 @@
+{
+  "serviceOrderNo": "SORD000W2102238",
+  "serviceOrderDesc": "DIG OUT AND RAISE XFMR 29-1-R",
+  "cnxStatus": "INPRG",
+  "cnxStatusDate": "2021-08-16T00:00:00",
+  "projectNo":"W2102238",
+  "billToCustName": "",
+  "locAssetPositionDesc": "1PH UG TX_29-1-R",
+  "equipmentId": "",
+  "crewId": "CREW-03",
+  "truckId": "truck35",
+  "projectManagerId": "SHANMCDO",
+  "userId": "shanmcdo",
+  "lineItems": [
+    {
+      "itemnmbr": "0112",
+      "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
+      "construct": 2,
+      "replace": 0
+    },
+{
+      "itemnmbr": "0115",
+      "itemdesc": "ANCHOR BASE, SCREW IN FOR LIGHT POLES, 3/4\" BOLTS",
+      "construct": 3,
+      "replace": 1
+    },
+{
+      "itemnmbr": "0243",
+      "itemdesc": "OPTICAL CONVERTER BOX, FOR URD COMMUNICATING FAULT INDICATORS",
+      "construct": 5,
+      "replace": 0
+    }
+  ]
+}
