@@ -1,0 +1,434 @@
+[
+  {
+    "equip_ID": "T13686",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10304"
+  },
+  {
+    "equip_ID": "T14929",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10439"
+  },
+  {
+    "equip_ID": "T7972626",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10587"
+  },
+  {
+    "equip_ID": "T5P22761",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10627"
+  },
+  {
+    "equip_ID": "T2120456",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10640"
+  },
+  {
+    "equip_ID": "T5V47268",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10641"
+  },
+  {
+    "equip_ID": "T31853",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10653"
+  },
+  {
+    "equip_ID": "T2072991",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10662"
+  },
+  {
+    "equip_ID": "T30521",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10669"
+  },
+  {
+    "equip_ID": "TYL4879",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10789"
+  },
+  {
+    "equip_ID": "T5V47247",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10851"
+  },
+  {
+    "equip_ID": "T5U35355",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10906"
+  },
+  {
+    "equip_ID": "T2088543",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-10913"
+  },
+  {
+    "equip_ID": "T10491",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-11073"
+  },
+  {
+    "equip_ID": "T5S64860",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-11101"
+  },
+  {
+    "equip_ID": "T5S56887",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-11109"
+  },
+  {
+    "equip_ID": "T2073002",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-11224"
+  },
+  {
+    "equip_ID": "T15277",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-11295"
+  },
+  {
+    "equip_ID": "T152277",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-11360"
+  },
+  {
+    "equip_ID": "T2120455",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-11872"
+  },
+  {
+    "equip_ID": "T5U77609",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-11976"
+  },
+  {
+    "equip_ID": "T5U77612",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12083"
+  },
+  {
+    "equip_ID": "T240641",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12131"
+  },
+  {
+    "equip_ID": "T2073040",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12154"
+  },
+  {
+    "equip_ID": "T2003320",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12285"
+  },
+  {
+    "equip_ID": "T331966",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12388"
+  },
+  {
+    "equip_ID": "T2003317",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12404"
+  },
+  {
+    "equip_ID": "T5S12649",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12427"
+  },
+  {
+    "equip_ID": "T3117836",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12494"
+  },
+  {
+    "equip_ID": "T793175",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12634"
+  },
+  {
+    "equip_ID": "TA6C3343",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12657"
+  },
+  {
+    "equip_ID": "T4111112",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12719"
+  },
+  {
+    "equip_ID": "T86543K64",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-12980"
+  },
+  {
+    "equip_ID": "TAJ4044",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-13051"
+  },
+  {
+    "equip_ID": "T5S58167",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-13056"
+  },
+  {
+    "equip_ID": "T378105",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-13938"
+  },
+  {
+    "equip_ID": "T5U77608",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-14147"
+  },
+  {
+    "equip_ID": "T1000306",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-14163"
+  },
+  {
+    "equip_ID": "T2088541",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-14164"
+  },
+  {
+    "equip_ID": "T1492593",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-14402"
+  },
+  {
+    "equip_ID": "T793158",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-14608"
+  },
+  {
+    "equip_ID": "T2D751244",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-1482"
+  },
+  {
+    "equip_ID": "T605784",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-14834"
+  },
+  {
+    "equip_ID": "T1420502",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-14901"
+  },
+  {
+    "equip_ID": "T5T55979",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-15353"
+  },
+  {
+    "equip_ID": "T1010185",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-15361"
+  },
+  {
+    "equip_ID": "TH6G1910",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-15398"
+  },
+  {
+    "equip_ID": "T5V48799",
+    "equip_StatusKey": "3",
+    "equip_Status": "OPERATING",
+    "itemNumber": "T0019",
+    "assetClass": "368",
+    "assetIDSuf": "1",
+    "assetPosition_ID": "2012-15720"
+  }
+]
