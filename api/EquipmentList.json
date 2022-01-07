@@ -4,7 +4,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0011",
-    "assetClass": "368",
+    "assetClass": "360",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10304"
   },
@@ -13,7 +13,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0012",
-    "assetClass": "368",
+    "assetClass": "361",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10439"
   },
@@ -22,7 +22,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0013",
-    "assetClass": "368",
+    "assetClass": "362",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10587"
   },
@@ -31,7 +31,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0014",
-    "assetClass": "368",
+    "assetClass": "363",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10627"
   },
@@ -40,7 +40,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0015",
-    "assetClass": "368",
+    "assetClass": "364",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10640"
   },
@@ -49,7 +49,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0016",
-    "assetClass": "368",
+    "assetClass": "365",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10641"
   },
@@ -58,7 +58,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0017",
-    "assetClass": "368",
+    "assetClass": "366",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10653"
   },
@@ -67,7 +67,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0018",
-    "assetClass": "368",
+    "assetClass": "367",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10662"
   },
@@ -85,7 +85,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0020",
-    "assetClass": "368",
+    "assetClass": "369",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10789"
   },
@@ -94,7 +94,7 @@
     "equip_StatusKey": "3",
     "equip_Status": "OPERATING",
     "itemNumber": "T0021",
-    "assetClass": "368",
+    "assetClass": "370",
     "assetIDSuf": "1",
     "assetPosition_ID": "2012-10851"
   },
