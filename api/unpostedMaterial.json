@@ -1,42 +1,39 @@
-// 20220718182806
-// http://cmworkformdev.connexusenergy.int:8000/gpapi/api/v1/InventoryTransfer/unpostedMaterial/SORD000W2102651
-
 [
   {
     "serviceOrderNumber": "SORD000W2102651",
     "issueItems": [
       {
-        "itemnmbr": "4008",
+        "itemnmbr": "4002",
         "bachnumb": "061622TRUCK03",
         "qty": 1.0,
         "issueDate": "2022-06-16T00:00:00"
       },
       {
-        "itemnmbr": "6069",
+        "itemnmbr": "6061",
         "bachnumb": "061622TRUCK03",
         "qty": 40.0,
         "issueDate": "2022-06-16T00:00:00"
       },
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4661",
         "bachnumb": "061622TRUCK03",
         "qty": 2.0,
         "issueDate": "2022-06-16T00:00:00"
       },
       {
-        "itemnmbr": "4000",
+        "itemnmbr": "4001",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
         "issueDate": "2022-06-15T00:00:00"
       },
       {
-        "itemnmbr": "6069",
+        "itemnmbr": "6064",
         "bachnumb": "061522TRUCK03",
         "qty": 30.0,
         "issueDate": "2022-06-15T00:00:00"
       },
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4666",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
         "issueDate": "2022-06-15T00:00:00"
@@ -44,43 +41,43 @@
     ],
     "replaceItems": [
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4668",
         "bachnumb": "061622TRUCK03",
         "qty": 2.0,
         "replaceDate": "2022-06-16T00:00:00"
       },
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4660",
         "bachnumb": "061522TRUCK03",
         "qty": 2.0,
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4669",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4669",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4660",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4663",
         "bachnumb": "061522TRUCK03",
         "qty": 2.0,
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
-        "itemnmbr": "4667",
+        "itemnmbr": "4663",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
         "replaceDate": "2022-06-15T00:00:00"
