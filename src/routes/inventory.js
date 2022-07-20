@@ -36,9 +36,7 @@ router.get("/picklist/:id", (req, res) => {
   return res.status(200).json(readJsonFile("picklist.json"));
 });
 
-router.get("/unpostedMaterial/:id", (req, res) => {
-  return res.status(200).json(readJsonFile("picklist.json"));
-});
+
 
 router.get("/unpostedMaterial/:id", (req, res) => {
   return res.status(200).json(readJsonFile("unpostedMaterial.json"));
