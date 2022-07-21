@@ -18,6 +18,9 @@ router.get("/equipmentlist/:id", (req, res) => {
 router.get("/truckMap/:id", (req, res) => {
   return res.status(200).json(readJsonFile("truckMap.json"));
 });
+router.get("/crewList", (req, res) => {
+  return res.status(200).json(readJsonFile("crewList.json"));
+});
 
 router.get("/serviceorders/:id", (req, res) => {
   return res.status(200).json(readJsonFile("serviceorders.json"));
