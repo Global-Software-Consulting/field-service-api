@@ -6,36 +6,42 @@
         "itemnmbr": "4002",
         "bachnumb": "061622TRUCK03",
         "qty": 1.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "issueDate": "2022-06-16T00:00:00"
       },
       {
         "itemnmbr": "6061",
         "bachnumb": "061622TRUCK03",
         "qty": 40.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "issueDate": "2022-06-16T00:00:00"
       },
       {
         "itemnmbr": "4661",
         "bachnumb": "061622TRUCK03",
         "qty": 2.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "issueDate": "2022-06-16T00:00:00"
       },
       {
         "itemnmbr": "4001",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "issueDate": "2022-06-15T00:00:00"
       },
       {
         "itemnmbr": "6064",
         "bachnumb": "061522TRUCK03",
         "qty": 30.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "issueDate": "2022-06-15T00:00:00"
       },
       {
         "itemnmbr": "4666",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "issueDate": "2022-06-15T00:00:00"
       }
     ],
@@ -44,42 +50,49 @@
         "itemnmbr": "4668",
         "bachnumb": "061622TRUCK03",
         "qty": 2.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "replaceDate": "2022-06-16T00:00:00"
       },
       {
         "itemnmbr": "4660",
         "bachnumb": "061522TRUCK03",
         "qty": 2.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
         "itemnmbr": "4669",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
         "itemnmbr": "4669",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
         "itemnmbr": "4660",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
         "itemnmbr": "4663",
         "bachnumb": "061522TRUCK03",
         "qty": 2.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "replaceDate": "2022-06-15T00:00:00"
       },
       {
         "itemnmbr": "4663",
         "bachnumb": "061522TRUCK03",
         "qty": 1.0,
+        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
         "replaceDate": "2022-06-15T00:00:00"
       }
     ]

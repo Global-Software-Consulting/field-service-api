@@ -39,7 +39,9 @@ router.get("/picklist/:id", (req, res) => {
   return res.status(200).json(readJsonFile("picklist.json"));
 });
 
-
+router.get("/compatibleUnitList", (req, res) => {
+  return res.status(200).json(readJsonFile("compatibleUnitList.json"));
+});
 
 router.get("/unpostedMaterial/:id", (req, res) => {
   return res.status(200).json(readJsonFile("unpostedMaterial.json"));
@@ -51,20 +53,37 @@ router.get("/history/:id", (req, res) => {
 
 router.post("/equipmentTransfer", (req, res) => {
   setTimeout(() => {
-    return res.status(200).json({"documentData": null, "elapsed": "276", "errorCode": 0, "errorMessage": "Equipment Transfer successful.", "success": true});
+    return res.status(200).json({
+      documentData: null,
+      elapsed: "276",
+      errorCode: 0,
+      errorMessage: "Equipment Transfer successful.",
+      success: true,
+    });
   }, 1000);
 });
 
 router.post("/projectInventoryTransfer", (req, res) => {
   setTimeout(() => {
-    return res.status(200).json({"documentData": null, "elapsed": "276", "errorCode": 0, "errorMessage": "Equipment Transfer successful.", "success": true});
+    return res.status(200).json({
+      documentData: null,
+      elapsed: "276",
+      errorCode: 0,
+      errorMessage: "Equipment Transfer successful.",
+      success: true,
+    });
   }, 1000);
 });
 router.post("/setDefaultCrewID", (req, res) => {
-setTimeout(() => {
-  return res.status(200).json({"documentData": null, "elapsed": "3", "errorCode": 0, "errorMessage": "", "success": true});
-}, 1000);
+  setTimeout(() => {
+    return res.status(200).json({
+      documentData: null,
+      elapsed: "3",
+      errorCode: 0,
+      errorMessage: "",
+      success: true,
+    });
+  }, 1000);
 });
-
 
 module.exports = router;

@@ -1,0 +1,37 @@
+[
+  {
+    "paprojnumber": "W2102399",
+    "itemnmbr": "7320",
+    "itemdesc": "CONNECTOR, SLEEVE #6-#8 ALUMINUM COMPRESSION",
+    "bin": "B-01-3",
+    "planQty": 5
+  },
+  {
+    "paprojnumber": "W2102399",
+    "itemnmbr": "3021",
+    "itemdesc": "WIRE, COPPER THHN 12 AWG, GREEN, 500' REEL",
+    "bin": "WC-07-2",
+    "planQty": 3
+  },
+  {
+    "paprojnumber": "W2102399",
+    "itemnmbr": "8294",
+    "itemdesc": "BRACKET, MOUNTING FOR FUSE CUTOUT, UNIVERSAL",
+    "bin": "Z-08-6",
+    "planQty": 4
+  },
+  {
+    "paprojnumber": "W2102399",
+    "itemnmbr": "9110",
+    "itemdesc": "FITTING, CONDUIT COUPLING 2\" PVC SCH 40",
+    "bin": "PB-12-1",
+    "planQty": 10
+  },
+  {
+    "paprojnumber": "W2102399",
+    "itemnmbr": "10101",
+    "itemdesc": "TAPE, ELECTRICAL 3/4\" BLACK VINYL 66FT ROLL",
+    "bin": "T-02-4",
+    "planQty": 15
+  }
+]
