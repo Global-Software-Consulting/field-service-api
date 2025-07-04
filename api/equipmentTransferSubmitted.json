@@ -1,0 +1,41 @@
+[
+  {
+    "serviceOrderNumber": "SORD000W2102651",
+    "issuedEquipments": [
+      {
+        "equipmentId": "EQ-1001",
+        "equipmentStatus": "Issued",
+        "equipmentClass": "Class A",
+        "assetPosition": "Warehouse A1",
+        "submittedDate": "2024-06-10T09:30:00Z",
+        "crew": "Crew 12"
+      },
+      {
+        "equipmentId": "EQ-1002",
+        "equipmentStatus": "Issued",
+        "equipmentClass": "Class B",
+        "assetPosition": "Site B3",
+        "submittedDate": "2024-06-10T09:30:00Z",
+        "crew": "Crew 12"
+      }
+    ],
+    "retiredEquipments": [
+      {
+        "equipmentId": "EQ-0987",
+        "equipmentStatus": "Retired",
+        "equipmentClass": "Class A",
+        "assetPosition": "Disposal Yard D5",
+        "submittedDate": "2024-06-05T15:45:00Z",
+        "crew": "Crew 7"
+      },
+      {
+        "equipmentId": "EQ-0765",
+        "equipmentStatus": "Retired",
+        "equipmentClass": "Class C",
+        "assetPosition": "Main Warehouse",
+        "submittedDate": "2024-06-01T11:00:00Z",
+        "crew": "Crew 5"
+      }
+    ]
+  }
+]
