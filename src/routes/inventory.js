@@ -51,6 +51,14 @@ router.get("/history/:id", (req, res) => {
   return res.status(200).json(readJsonFile("history.json"));
 });
 
+router.get("/equipmentTransferSubmitted/:id", (req, res) => {
+  return res.status(200).json(readJsonFile("equipmentTransferSubmitted.json"));
+});
+
+router.get("/equipmentTransferHistory/:id", (req, res) => {
+  return res.status(200).json(readJsonFile("equipmentTransferHistory.json"));
+});
+
 router.post("/equipmentTransfer", (req, res) => {
   setTimeout(() => {
     return res.status(200).json({
