@@ -21,6 +21,9 @@ router.get("/truckMap/:id", (req, res) => {
 router.get("/crewList", (req, res) => {
   return res.status(200).json(readJsonFile("crewList.json"));
 });
+router.get("/warehouseList", (req, res) => {
+  return res.status(200).json(readJsonFile("warehouseList.json"));
+});
 
 router.get("/serviceorders/:id", (req, res) => {
   return res.status(200).json(readJsonFile("serviceorders.json"));

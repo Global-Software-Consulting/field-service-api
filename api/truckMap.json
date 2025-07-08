@@ -2,6 +2,15 @@
   {
     "iPadID": "aleequre@connexusenergy.com",
     "truckID": "truck03",
-    "crewID": "CREW-05"
+    "crewID": "CREW-05",
+    "userType": "crew",
+    "ChangeEnvironment": "N"
+  },
+  {
+    "iPadID": "warehouse.user@connexusenergy.com",
+    "truckID": "WH-001",
+    "crewID": "WAREHOUSE-01",
+    "userType": "warehouse",
+    "ChangeEnvironment": "Y"
   }
 ]

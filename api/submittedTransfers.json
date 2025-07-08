@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Equip_ID": "EQ001",
+    "Equip_Status": "ACTIVE",
+    "Equip_Class": "TRANSFORMER",
+    "Asset_Position": "POLE_TOP",
+    "serviceOrderNo": "SO123456",
+    "projectNo": "PRJ001",
+    "dateCreated": "2024-01-15T10:30:00Z",
+    "transferType": "INSTALL",
+    "crewId": "CREW001",
+    "truckId": "TRUCK001",
+    "transferStatus": "SUBMITTED",
+    "ModifiedBy": "SYSTEM",
+    "ModifiedDate": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "Equip_ID": "EQ002",
+    "Equip_Status": "ACTIVE",
+    "Equip_Class": "METER",
+    "Asset_Position": "GROUND",
+    "serviceOrderNo": "SO123456",
+    "projectNo": "PRJ001",
+    "dateCreated": "2024-01-15T11:15:00Z",
+    "transferType": "REMOVE",
+    "crewId": "CREW001",
+    "truckId": "TRUCK001",
+    "transferStatus": "SUBMITTED",
+    "ModifiedBy": "SYSTEM",
+    "ModifiedDate": "2024-01-15T11:15:00Z"
+  }
+]
