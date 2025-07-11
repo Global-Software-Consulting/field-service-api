@@ -33,52 +33,5 @@
     "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
     "bin": "YVEHSTR",
     "planQty": 2
-  },
-  [
-    {
-      "paprojnumber": "W2101481",
-      "itemnmbr": "1844",
-      "itemdesc": "CLAMP, GROUND ROD, COPPER, 1/0 STR TO 8 SOL",
-      "bin": "A-05-4",
-      "planQty": 2,
-      "prevIssue": 44,
-      "remQty": 32
-    },
-    {
-      "paprojnumber": "W2101481",
-      "itemnmbr": "10696",
-      "itemdesc": "MARKER, PEDESTAL OR TRANSFORMER, 60\" REFLECTIVE 3/8\" ROD, WITH L BKT",
-      "bin": "UB-14-2",
-      "planQty": 1,
-      "prevIssue": 43,
-      "remQty": 31
-    },
-    {
-      "paprojnumber": "W2101481",
-      "itemnmbr": "9482",
-      "itemdesc": "BOX PAD FOR 1PH TRANSFORMER, 37\"X43\"X15\"  OPENING: 22\" X 26\"",
-      "bin": "YARD",
-      "planQty": 1,
-      "prevIssue": 42,
-      "remQty": 33
-    },
-    {
-      "paprojnumber": "W2101481",
-      "itemnmbr": "6056",
-      "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
-      "bin": "YB-09-1",
-      "planQty": 20,
-      "prevIssue": 41,
-      "remQty": 39
-    },
-    {
-      "paprojnumber": "W2101481",
-      "itemnmbr": "4667",
-      "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
-      "bin": "YVEHSTR",
-      "planQty": 2,
-      "prevIssue": 40,
-      "remQty": 34
-    }
-  ]
+  }
 ]

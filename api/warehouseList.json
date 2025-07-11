@@ -1,52 +1,57 @@
 [
   {
+    "warehouseId": "all",
+    "warehouseName": "all warehouses",
+    "warehouseType": "WHSE"
+  },
+  {
     "warehouseId": "WHSE-01",
-    "warehouseName": "Central Storage Facility",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "MAIN WAREHOUSE",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-02",
-    "warehouseName": "North Side Warehouse",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "EAST SIDE WAREHOUSE",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-03",
-    "warehouseName": "South Distribution Center",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "WEST SIDE STORAGE",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-04",
-    "warehouseName": "Spare Parts Depot",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "CENTRAL DEPOT",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-05",
-    "warehouseName": "Tool Storage Unit",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "NORTH FACILITY",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-06",
-    "warehouseName": "Hazmat Storage",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "SOUTH FACILITY",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-07",
-    "warehouseName": "Vehicle Supplies Store",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "TOOLS AND EQUIPMENT",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-08",
-    "warehouseName": "Storm Equipment Warehouse",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "ELECTRICAL SUPPLY DEPOT",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-09",
-    "warehouseName": "Electrical Components Store",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "LINE MATERIAL STORAGE",
+    "warehouseType": "WHSE"
   },
   {
     "warehouseId": "WHSE-10",
-    "warehouseName": "Main Backup Inventory",
-    "warehouseType": "WAREHOUSE"
+    "warehouseName": "TEMP STORAGE UNIT",
+    "warehouseType": "WHSE"
   }
 ]

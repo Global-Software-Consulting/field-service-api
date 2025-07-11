@@ -1,0 +1,57 @@
+[
+  {
+    "category": "CAT1",
+    "itemnmbr": "0001",
+    "itemdesc": "LETTERS, ALUMINUM 3\"\\C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT1",
+    "itemnmbr": "0003",
+    "itemdesc": "LETTERS, ALUMINUM 10\"\\ C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT2",
+    "itemnmbr": "0001",
+    "itemdesc": "LETTERS, ALUMINUM 3\"\\C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT2",
+    "itemnmbr": "0002",
+    "itemdesc": "LETTERS, ALUMINUM 5\"\\ C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT2",
+    "itemnmbr": "0003",
+    "itemdesc": "LETTERS, ALUMINUM 10\"\\ C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT3",
+    "itemnmbr": "0001",
+    "itemdesc": "LETTERS, ALUMINUM 3\"\\C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT4",
+    "itemnmbr": "0001",
+    "itemdesc": "LETTERS, ALUMINUM 3\"\\C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT4",
+    "itemnmbr": "0004",
+    "itemdesc": "LETTERS, ALUMINUM 15\"\\ C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT5",
+    "itemnmbr": "0001",
+    "itemdesc": "LETTERS, ALUMINUM 3\"\\C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT5",
+    "itemnmbr": "0004",
+    "itemdesc": "LETTERS, ALUMINUM 15\"\\ C & N TEST CREW DESC"
+  },
+  {
+    "category": "CAT5",
+    "itemnmbr": "0005",
+    "itemdesc": "LETTERS, ALUMINUM 20\"\\ C & N TEST CREW DESC"
+  }
+]

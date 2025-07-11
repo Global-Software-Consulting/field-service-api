@@ -1,5 +1,10 @@
 [
   {
+    "crewId": "all",
+    "crewName": "all services",
+    "crewType": "CREW"
+  },
+  {
     "crewId": "CREW-02",
     "crewName": "FRGHLT FL80 - LG D/D (50') W/WINCH",
     "crewType": "CREW"

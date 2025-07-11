@@ -1,100 +1,1471 @@
 [
   {
-    "serviceOrderNumber": "SORD000W2102651",
+    "serviceOrderNumber": "SORD000W2004191",
     "issueItems": [
       {
-        "itemnmbr": "4008",
-        "bachnumb": "061622TRUCK03",
-        "qty": 1.0,
-        "issueDate": "2022-06-16T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
+        "itemnmbr": "6023",
+        "itemdesc": "CABLE, PRIMARY 1/0 ACSR, 6/1, RAVEN, 12188' REEL",
+        "bachnumb": "050422WALTSPRI",
+        "qty": 85,
+        "issueDate": "2022-05-04T00:00:00"
+      },
+      {
+        "itemnmbr": "6023",
+        "itemdesc": "CABLE, PRIMARY 1/0 ACSR, 6/1, RAVEN, 12188' REEL",
+        "bachnumb": "050422WALTSPRI",
+        "qty": 1230,
+        "issueDate": "2022-05-04T00:00:00"
+      },
+      {
+        "itemnmbr": "9921",
+        "itemdesc": "CABLE, SECONDARY 1/0-#2-1/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "050422WALTSPRI",
+        "qty": 60,
+        "issueDate": "2022-05-04T00:00:00"
+      },
+      {
+        "itemnmbr": "9917",
+        "itemdesc": "CABLE, SECONDARY, 4/0-2/0-4/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "050422WALTSPRI",
+        "qty": 244,
+        "issueDate": "2022-05-04T00:00:00"
+      },
+      {
+        "itemnmbr": "0932",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 12\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "8510",
+        "itemdesc": "GROUNDING LUG, U-GUARD, STAINLESS",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "6382",
+        "itemdesc": "WASHER, SQUARE 2 1/4\" WITH 11/16\" HOLE",
+        "bachnumb": "042722CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "4797",
+        "itemdesc": "DRIVE HOOK",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0228",
+        "itemdesc": "ARRESTER, DISTRIBUTION, POLYMER, 10KV MOV, HEAVY DUTY, COMPLETE WITH GROUND",
+        "bachnumb": "042722CHARHAME",
+        "qty": 6,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "10387",
+        "itemdesc": "COVERUP, SILICON, OCR BUSHING",
+        "bachnumb": "042722CHARHAME",
+        "qty": 3,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "10940",
+        "itemdesc": "CONNECTOR, ARRESTOR, 3/8-16 FEMALE THREADS, #6 - 1/0",
+        "bachnumb": "042722CHARHAME",
+        "qty": 6,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "2484",
+        "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+        "bachnumb": "042722CHARHAME",
+        "qty": 10,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0834",
+        "itemdesc": "BOLT EYE 5/8\" X 12\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0904",
+        "itemdesc": "BOLT, MACHINE 1/2\" X 6\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 9,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0908",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 5\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0912",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 6\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0932",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 12\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "5966",
+        "itemdesc": "TIE, SPOOL 1/0 ACSR",
+        "bachnumb": "042722CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "1084",
+        "itemdesc": "BOLT, SINGLE UPSET 5/8\" X 12\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "3328",
+        "itemdesc": "INSULATOR, SPOOL 3\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "6384",
+        "itemdesc": "WASHER, SQUARE CURVED, 3\" WITH 11/16\" HOLE",
+        "bachnumb": "042722CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "6380",
+        "itemdesc": "WASHER, ROUND 1 3/8\" X 9/16\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 12,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "6382",
+        "itemdesc": "WASHER, SQUARE 2 1/4\" WITH 11/16\" HOLE",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "10973",
+        "itemdesc": "TERMINAL, 2 HOLE, 1/0-500, BOLTED, STRAIGHT",
+        "bachnumb": "042722CHARHAME",
+        "qty": 6,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "10802",
+        "itemdesc": "BUSHING COVER, BIRD CAP, FOR VACUUM SWITCHES",
+        "bachnumb": "042722CHARHAME",
+        "qty": 5,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "8600",
+        "itemdesc": "ANODE, MAGNESIUM, HIGH POTENTIAL, 5 LB",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "7744",
+        "itemdesc": "CONNECTOR, INSULATED  NO  STUD  HOLE 4-350-SS",
+        "bachnumb": "042722CHARHAME",
+        "qty": 3,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "7902",
+        "itemdesc": "BRACKET, MNTNG FOR TERMINAL POLE TERM, #2 SOLID ALUM",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0928",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 10\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0932",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 12\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "0936",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 14\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "1080",
+        "itemdesc": "BOLT, SINGLE UPSET 5/8\" X 10\"",
+        "bachnumb": "042722CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042722WALTSPRI",
+        "qty": 120,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "6022",
+        "itemdesc": "CABLE, SECONDARY,INSULATED 600V, #6, 7-STRAND COPPER 1000' REEL",
+        "bachnumb": "042722WALTSPRI",
+        "qty": 8,
+        "issueDate": "2022-04-27T00:00:00"
       },
       {
         "itemnmbr": "6069",
-        "bachnumb": "061622TRUCK03",
-        "qty": 40.0,
-        "issueDate": "2022-06-16T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042722WALTSPRI",
+        "qty": 18,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "4797",
+        "itemdesc": "DRIVE HOOK",
+        "bachnumb": "042722WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
+      },
+      {
+        "itemnmbr": "8440",
+        "itemdesc": "GRIP, CABLE SUPPORT, #2 SOLID ALUMINUM URD",
+        "bachnumb": "042722WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-27T00:00:00"
       },
       {
         "itemnmbr": "4667",
-        "bachnumb": "061622TRUCK03",
-        "qty": 2.0,
-        "issueDate": "2022-06-16T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
+        "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "6022",
+        "itemdesc": "CABLE, SECONDARY,INSULATED 600V, #6, 7-STRAND COPPER 1000' REEL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 6,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "6069",
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 35,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 6,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "4667",
+        "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 200,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 35,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "9917",
+        "itemdesc": "CABLE, SECONDARY, 4/0-2/0-4/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 380,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "10208",
+        "itemdesc": "2\" FLEX CONDUIT RED W/1250LB POLY TAPE 250FT COIL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 340,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "4667",
+        "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "3161",
+        "itemdesc": "GUY STRAND, 10M,  ALUMINUM CLAD STEEL  (5/16\")  500' COIL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 45,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "6069",
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 50,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "1844",
+        "itemdesc": "CLAMP, GROUND ROD, COPPER, 1/0 STR TO 8 SOL",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "8434",
+        "itemdesc": "GRIP, CABLE SUPPORT, 1/0 - #2 - 1/0 AND 4/0-2/0-4/0",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "8440",
+        "itemdesc": "GRIP, CABLE SUPPORT, #2 SOLID ALUMINUM URD",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "4797",
+        "itemdesc": "DRIVE HOOK",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "T0102",
+        "itemdesc": "P: TX, PAD, 1PH, 15KVA, LOOP, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "9482",
+        "itemdesc": "BOX PAD FOR 1PH TRANSFORMER, 37\"X43\"X15\"  OPENING: 22\" X 26\"",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "2532",
+        "itemdesc": "CROSSARM, DEADEND, BRACELESS, FIBERGLASS, 3 5/8\" X 4 5/8\"X8', BROWN",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "4034",
+        "itemdesc": "POLE 45' CLASS 3",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "T0046",
+        "itemdesc": "P: TX, OH, 1PH, 15KVA, DB, 120/240VT, 7200/12470YVT",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "VR0001",
+        "itemdesc": "P: 219.00 AMPS, 167.00 KVA, 1.00 PH, 7.62 KV, 32, TYPE B",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 3,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "VR0113",
+        "itemdesc": "P: VOLTAGE REGULATOR, CONTROL, SCHWEITZER SEL 2431",
+        "bachnumb": "042622WALTSPRI",
+        "qty": 3,
+        "issueDate": "2022-04-26T00:00:00"
+      },
+      {
+        "itemnmbr": "3313",
+        "itemdesc": "INSULATOR, LINE POST (STACK), C-NECK POLYMER",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "3315",
+        "itemdesc": "POLE TOP PIN STUD (FOR 3313)",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "6822",
+        "itemdesc": "WIREHOLDER, SCREW",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "2726",
+        "itemdesc": "DEADEND, PREFORMED 1/0 SERVICE GRIP",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "6833",
+        "itemdesc": "WIREHOLDER, MAST",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "2484",
+        "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-25T00:00:00"
       },
       {
         "itemnmbr": "4000",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "issueDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
+        "itemdesc": "POLE 30' CLASS 6",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "9482",
+        "itemdesc": "BOX PAD FOR 1PH TRANSFORMER, 37\"X43\"X15\"  OPENING: 22\" X 26\"",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "0936",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 14\"",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 5,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "0940",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 16\"",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "1308",
+        "itemdesc": "BRACE, CROSSARM, FOR 60\" SPAN",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "2507",
+        "itemdesc": "CROSSARM, WOOD 3-3/4\" X 4-3/4\" X 8'",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "4034",
+        "itemdesc": "POLE 45' CLASS 3",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "4797",
+        "itemdesc": "DRIVE HOOK",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "8510",
+        "itemdesc": "GROUNDING LUG, U-GUARD, STAINLESS",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "8434",
+        "itemdesc": "GRIP, CABLE SUPPORT, 1/0 - #2 - 1/0 AND 4/0-2/0-4/0",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "0827",
+        "itemdesc": "BOLT, EYE 5/8\" X 10\"",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "6384",
+        "itemdesc": "WASHER, SQUARE CURVED, 3\" WITH 11/16\" HOLE",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "3323",
+        "itemdesc": "INSULATOR, SUSPENSION PORCELAIN BELL & RUBBER SKIRT",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "7731",
+        "itemdesc": "CONNECTOR, INSULATED FOR 5/8\" STUD  4-350",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "7735",
+        "itemdesc": "CONNECTOR, BARE  FOR 5/8\" STUD  4-350",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "4799",
+        "itemdesc": "SCREW, LAG   1/2\"X4\"",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "2731",
+        "itemdesc": "DEADEND, PREFORMED, #2 SERVICE GRIP",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "2484",
+        "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "2484",
+        "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "4980",
+        "itemdesc": "SLEEVE, COPPER REPAIR 8 ACWC",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "T0022",
+        "itemdesc": "P: TX, OH, 1PH, 15KVA, SB, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "4000",
+        "itemdesc": "POLE 30' CLASS 6",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "1308",
+        "itemdesc": "BRACE, CROSSARM, FOR 60\" SPAN",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "2507",
+        "itemdesc": "CROSSARM, WOOD 3-3/4\" X 4-3/4\" X 8'",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "4020",
+        "itemdesc": "POLE 40' CLASS 3",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "0223",
+        "itemdesc": "ARRESTER,  LIGHTNING, METAL OXIDE  (RISER POLE), MOV 10KV, POLYMER",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "2484",
+        "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "8510",
+        "itemdesc": "GROUNDING LUG, U-GUARD, STAINLESS",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "T0022",
+        "itemdesc": "P: TX, OH, 1PH, 15KVA, SB, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "T0022",
+        "itemdesc": "P: TX, OH, 1PH, 15KVA, SB, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "T0102",
+        "itemdesc": "P: TX, PAD, 1PH, 15KVA, LOOP, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "042522WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-25T00:00:00"
+      },
+      {
+        "itemnmbr": "8320",
+        "itemdesc": "HEAT SHRINK TUBE 24\", FOR #2 & 4/0 PRIMARY SPLICES",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 6,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "8860",
+        "itemdesc": "SPLICE #2 SOLID ALUMINUM URD PRIMARY CABLE",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 6,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "10696",
+        "itemdesc": "MARKER, PEDESTAL OR TRANSFORMER, 60\" REFLECTIVE 3/8\" ROD, WITH L BKT",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 3141,
+        "issueDate": "2022-04-22T00:00:00"
       },
       {
         "itemnmbr": "6069",
-        "bachnumb": "061522TRUCK03",
-        "qty": 30.0,
-        "issueDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 1575,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 110,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9921",
+        "itemdesc": "CABLE, SECONDARY 1/0-#2-1/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 100,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9917",
+        "itemdesc": "CABLE, SECONDARY, 4/0-2/0-4/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 240,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "10207",
+        "itemdesc": "1-1/2\" FLEX CONDUIT RED W/1250LB POLY TAPE 250FT COIL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 50,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "10208",
+        "itemdesc": "2\" FLEX CONDUIT RED W/1250LB POLY TAPE 250FT COIL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 250,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 1764,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6069",
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 630,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 40,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 824,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6069",
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 630,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9917",
+        "itemdesc": "CABLE, SECONDARY, 4/0-2/0-4/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 30,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "10208",
+        "itemdesc": "2\" FLEX CONDUIT RED W/1250LB POLY TAPE 250FT COIL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 10,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 3214,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6069",
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 5670,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042222WALTSPRI",
+        "qty": 660,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "1738",
+        "itemdesc": "CLAMP, GUY BONDING, THIMBLEYE POWER ANCHOR ROD 3/4\"",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6384",
+        "itemdesc": "WASHER, SQUARE CURVED, 3\" WITH 11/16\" HOLE",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "8860",
+        "itemdesc": "SPLICE #2 SOLID ALUMINUM URD PRIMARY CABLE",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "8325",
+        "itemdesc": "HEAT SHRINK KIT, 6\" FOR SEALING #2 OR 4/0 PRIMARY CABLE AT ELBOWS",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "0367",
+        "itemdesc": "GUY ATTACHMENT",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "2069",
+        "itemdesc": "DEADEND, GUY GRIP  5/16\"",
+        "bachnumb": "042222NICKWARH",
+        "qty": 2,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "4799",
+        "itemdesc": "SCREW, LAG   1/2\"X4\"",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "7509",
+        "itemdesc": "TERMINATOR, OUTDOOR #2 SOLID ALUMINUM URD",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
       },
       {
         "itemnmbr": "4667",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "issueDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
+        "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "4008",
+        "itemdesc": "POLE 35' CLASS 5",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042222NICKWARH",
+        "qty": 40,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "3161",
+        "itemdesc": "GUY STRAND, 10M,  ALUMINUM CLAD STEEL  (5/16\")  500' COIL",
+        "bachnumb": "042222NICKWARH",
+        "qty": 60,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6022",
+        "itemdesc": "CABLE, SECONDARY,INSULATED 600V, #6, 7-STRAND COPPER 1000' REEL",
+        "bachnumb": "042222NICKWARH",
+        "qty": 6,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6069",
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042222NICKWARH",
+        "qty": 32,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "042222NICKWARH",
+        "qty": 6,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "0936",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 14\"",
+        "bachnumb": "042222NICKWARH",
+        "qty": 6,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "0245",
+        "itemdesc": "CUTOUT, 7.8KV OPEN TYPE, POLYMER, WITHOUT BRACKET",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "1844",
+        "itemdesc": "CLAMP, GROUND ROD, COPPER, 1/0 STR TO 8 SOL",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "2484",
+        "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+        "bachnumb": "042222NICKWARH",
+        "qty": 2,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "8434",
+        "itemdesc": "GRIP, CABLE SUPPORT, 1/0 - #2 - 1/0 AND 4/0-2/0-4/0",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "10696",
+        "itemdesc": "MARKER, PEDESTAL OR TRANSFORMER, 60\" REFLECTIVE 3/8\" ROD, WITH L BKT",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "4797",
+        "itemdesc": "DRIVE HOOK",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "4667",
+        "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+        "bachnumb": "042222NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "6022",
+        "itemdesc": "CABLE, SECONDARY,INSULATED 600V, #6, 7-STRAND COPPER 1000' REEL",
+        "bachnumb": "042222NICKWARH",
+        "qty": 8,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "4667",
+        "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+        "bachnumb": "042222NICKWARH",
+        "qty": 2,
+        "issueDate": "2022-04-22T00:00:00"
+      },
+      {
+        "itemnmbr": "0932",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 12\"",
+        "bachnumb": "042022CHARHAME",
+        "qty": 3,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "1308",
+        "itemdesc": "BRACE, CROSSARM, FOR 60\" SPAN",
+        "bachnumb": "042022CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "2507",
+        "itemdesc": "CROSSARM, WOOD 3-3/4\" X 4-3/4\" X 8'",
+        "bachnumb": "042022CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "4667",
+        "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+        "bachnumb": "042022CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "4020",
+        "itemdesc": "POLE 40' CLASS 3",
+        "bachnumb": "042022CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6089",
+        "itemdesc": "CABLE, GROUND, #2 7-STRAND SD BARE COPPER, 125' REEL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 60,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "0932",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 12\"",
+        "bachnumb": "042022CHARHAME",
+        "qty": 6,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "2484",
+        "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+        "bachnumb": "042022CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "8440",
+        "itemdesc": "GRIP, CABLE SUPPORT, #2 SOLID ALUMINUM URD",
+        "bachnumb": "042022CHARHAME",
+        "qty": 2,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "4797",
+        "itemdesc": "DRIVE HOOK",
+        "bachnumb": "042022CHARHAME",
+        "qty": 4,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "7902",
+        "itemdesc": "BRACKET, MNTNG FOR TERMINAL POLE TERM, #2 SOLID ALUM",
+        "bachnumb": "042022CHARHAME",
+        "qty": 8,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6022",
+        "itemdesc": "CABLE, SECONDARY,INSULATED 600V, #6, 7-STRAND COPPER 1000' REEL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 7,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 4,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "R0003",
+        "itemdesc": "P: RECLOSER, 800 AMPS, 10 KA, 3 PH, OIL , 12.47 KV",
+        "bachnumb": "042022CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "1961",
+        "itemdesc": "CLAMP, HOT LINE 1/0 COPPER - 8A",
+        "bachnumb": "042022CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "2484",
+        "itemdesc": "CONNECTOR, TANK GROUND FOR POLE TRANSFORMERS",
+        "bachnumb": "042022CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "T0022",
+        "itemdesc": "P: TX, OH, 1PH, 15KVA, SB, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "042022CHARHAME",
+        "qty": 1,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6386",
+        "itemdesc": "WASHER, SQUARE CURVED 3\" WITH 13/16\" HOLE",
+        "bachnumb": "042022CHARHAME",
+        "qty": 4,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6089",
+        "itemdesc": "CABLE, GROUND, #2 7-STRAND SD BARE COPPER, 125' REEL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 80,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "9911",
+        "itemdesc": "CABLE, PRIMARY #2 SOLID ALUM 15KV JACKETED",
+        "bachnumb": "042022CHARHAME",
+        "qty": 200,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 20,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "9917",
+        "itemdesc": "CABLE, SECONDARY, 4/0-2/0-4/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 55,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6022",
+        "itemdesc": "CABLE, SECONDARY,INSULATED 600V, #6, 7-STRAND COPPER 1000' REEL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 15,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "4020",
+        "itemdesc": "POLE 40' CLASS 3",
+        "bachnumb": "042022CHARHAME",
+        "qty": 3,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "3161",
+        "itemdesc": "GUY STRAND, 10M,  ALUMINUM CLAD STEEL  (5/16\")  500' COIL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 80,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6069",
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 120,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "042022CHARHAME",
+        "qty": 10,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "4985",
+        "itemdesc": "SLEEVE, ALUMINUM REPAIR 1/0",
+        "bachnumb": "042022CHARHAME",
+        "qty": 3,
+        "issueDate": "2022-04-20T00:00:00"
+      },
+      {
+        "itemnmbr": "5958",
+        "itemdesc": "TIE, WRAPLOCK 1/0 ACSR",
+        "bachnumb": "041422NICKWARH",
+        "qty": 3,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "5966",
+        "itemdesc": "TIE, SPOOL 1/0 ACSR",
+        "bachnumb": "041422NICKWARH",
+        "qty": 2,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "8860",
+        "itemdesc": "SPLICE #2 SOLID ALUMINUM URD PRIMARY CABLE",
+        "bachnumb": "041422NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "8320",
+        "itemdesc": "HEAT SHRINK TUBE 24\", FOR #2 & 4/0 PRIMARY SPLICES",
+        "bachnumb": "041422NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "2493",
+        "itemdesc": "CONNECTOR, TRANSFORMER  SPADE, 1 COND.  750MCM",
+        "bachnumb": "041422NICKWARH",
+        "qty": 20,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "10571",
+        "itemdesc": "BOLT ASSY, 3 \" STAINLESS STEEL FOR SPADE CONNECTOR",
+        "bachnumb": "041422NICKWARH",
+        "qty": 40,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "6003",
+        "itemdesc": "CABLE, JUMPER 350 KCMIL 37-STRAND SD BARE COPPER, 1000' REEL",
+        "bachnumb": "041422NICKWARH",
+        "qty": 40,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "0277",
+        "itemdesc": "SWITCH, AIRBREAK, 3.00 PH",
+        "bachnumb": "041422NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "2482",
+        "itemdesc": "GROUNDING PLATFORM 3'  X 4' HOT DIPPED GALVANIZED STEEL",
+        "bachnumb": "041422NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "1441",
+        "itemdesc": "BRACKET, MOUNTING, CUTOUT-ARRESTER-TERMINATOR",
+        "bachnumb": "041422NICKWARH",
+        "qty": 1,
+        "issueDate": "2022-04-14T00:00:00"
+      },
+      {
+        "itemnmbr": "8510",
+        "itemdesc": "GROUNDING LUG, U-GUARD, STAINLESS",
+        "bachnumb": "041222WALTSPRI",
+        "qty": 5,
+        "issueDate": "2022-04-12T00:00:00"
+      },
+      {
+        "itemnmbr": "8600",
+        "itemdesc": "ANODE, MAGNESIUM, HIGH POTENTIAL, 5 LB",
+        "bachnumb": "041222WALTSPRI",
+        "qty": 5,
+        "issueDate": "2022-04-12T00:00:00"
+      },
+      {
+        "itemnmbr": "9921",
+        "itemdesc": "CABLE, SECONDARY 1/0-#2-1/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "033122WALTSPRI",
+        "qty": 148,
+        "issueDate": "2022-03-31T00:00:00"
+      },
+      {
+        "itemnmbr": "9917",
+        "itemdesc": "CABLE, SECONDARY, 4/0-2/0-4/0 ALUMINUM TRIPLEX USE, 2000' REEL",
+        "bachnumb": "033122WALTSPRI",
+        "qty": 522,
+        "issueDate": "2022-03-31T00:00:00"
+      },
+      {
+        "itemnmbr": "10769",
+        "itemdesc": "SIGN, \"CAUTION 2-SUB FEED\", 7\" X 10\", BLK ON YLW, ALUMINUM",
+        "bachnumb": "033122WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-03-31T00:00:00"
+      },
+      {
+        "itemnmbr": "T0024",
+        "itemdesc": "P: TX, OH, 1PH, 25KVA, SB, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "033122WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-03-31T00:00:00"
+      },
+      {
+        "itemnmbr": "T0022",
+        "itemdesc": "P: TX, OH, 1PH, 15KVA, SB, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "033122WALTSPRI",
+        "qty": 7,
+        "issueDate": "2022-03-31T00:00:00"
+      },
+      {
+        "itemnmbr": "6023",
+        "itemdesc": "CABLE, PRIMARY 1/0 ACSR, 6/1, RAVEN, 12188' REEL",
+        "bachnumb": "033122WALTSPRI",
+        "qty": 12183,
+        "issueDate": "2022-03-31T00:00:00"
+      },
+      {
+        "itemnmbr": "6023",
+        "itemdesc": "CABLE, PRIMARY 1/0 ACSR, 6/1, RAVEN, 12188' REEL",
+        "bachnumb": "033122WALTSPRI",
+        "qty": 6201,
+        "issueDate": "2022-03-31T00:00:00"
+      },
+      {
+        "itemnmbr": "6041",
+        "itemdesc": "CABLE, SECONDARY #2 TRIPLEX, XLP 500' HAND COIL",
+        "bachnumb": "033122WALTSPRI",
+        "qty": 355,
+        "issueDate": "2022-03-31T00:00:00"
+      },
+      {
+        "itemnmbr": "0834",
+        "itemdesc": "BOLT EYE 5/8\" X 12\"",
+        "bachnumb": "032122WALTSPRI",
+        "qty": 12,
+        "issueDate": "2022-03-21T00:00:00"
+      },
+      {
+        "itemnmbr": "0936",
+        "itemdesc": "BOLT, MACHINE 5/8\" X 14\"",
+        "bachnumb": "032122WALTSPRI",
+        "qty": 12,
+        "issueDate": "2022-03-21T00:00:00"
+      },
+      {
+        "itemnmbr": "10544",
+        "itemdesc": "CULVERT,30\" DIA, SPIRAL, GALVANIZED STEEL, 14 GUAGE, 12' IN LENGTH",
+        "bachnumb": "032122WALTSPRI",
+        "qty": 5,
+        "issueDate": "2022-03-21T00:00:00"
+      },
+      {
+        "itemnmbr": "9482",
+        "itemdesc": "BOX PAD FOR 1PH TRANSFORMER, 37\"X43\"X15\"  OPENING: 22\" X 26\"",
+        "bachnumb": "032122WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-03-21T00:00:00"
+      },
+      {
+        "itemnmbr": "T0102",
+        "itemdesc": "P: TX, PAD, 1PH, 15KVA, LOOP, 120/240VT, 12470GRDY/7200VT",
+        "bachnumb": "032122WALTSPRI",
+        "qty": 1,
+        "issueDate": "2022-03-21T00:00:00"
+      },
+      {
+        "itemnmbr": "4000",
+        "itemdesc": "POLE 30' CLASS 6",
+        "bachnumb": "032122WALTSPRI",
+        "qty": 2,
+        "issueDate": "2022-03-21T00:00:00"
+      },
+      {
+        "itemnmbr": "4020",
+        "itemdesc": "POLE 40' CLASS 3",
+        "bachnumb": "032122WALTSPRI",
+        "qty": 29,
+        "issueDate": "2022-03-21T00:00:00"
+      },
+      {
+        "itemnmbr": "4034",
+        "itemdesc": "POLE 45' CLASS 3",
+        "bachnumb": "032122WALTSPRI",
+        "qty": 3,
+        "issueDate": "2022-03-21T00:00:00"
+      },
+      {
+        "itemnmbr": "4667",
+        "itemdesc": "ROD, GROUND, 5/8\" X 8' COPPERWELD",
+        "bachnumb": "031722WALTSPRI",
+        "qty": 51,
+        "issueDate": "2022-03-17T00:00:00"
+      },
+      {
+        "itemnmbr": "10898",
+        "itemdesc": "MESH, GALVANIZED, 1/2\", 36\" X 100', 19 GA",
+        "bachnumb": "031722WALTSPRI",
+        "qty": 6,
+        "issueDate": "2022-03-17T00:00:00"
+      },
+      {
+        "itemnmbr": "0156",
+        "itemdesc": "ANCHOR, POWER 12\" HELIX",
+        "bachnumb": "031722WALTSPRI",
+        "qty": 4,
+        "issueDate": "2022-03-17T00:00:00"
+      },
+      {
+        "itemnmbr": "10100",
+        "itemdesc": "NUT, LOCK, 5/8\"",
+        "bachnumb": "031722WALTSPRI",
+        "qty": 1000,
+        "issueDate": "2022-03-17T00:00:00"
+      },
+      {
+        "itemnmbr": "10084",
+        "itemdesc": "STAPLE, DIAMOND POINT,  ELECTRO ZINC PLATED, 1 1/2 X 38 X .148",
+        "bachnumb": "031722WALTSPRI",
+        "qty": 2500,
+        "issueDate": "2022-03-17T00:00:00"
+      },
+      {
+        "itemnmbr": "4968",
+        "itemdesc": "SLEEVE, COPPER 8 ACWC  AUTOMATIC",
+        "bachnumb": "031722WALTSPRI",
+        "qty": 100,
+        "issueDate": "2022-03-17T00:00:00"
+      },
+      {
+        "itemnmbr": "10544",
+        "itemdesc": "CULVERT,30\" DIA, SPIRAL, GALVANIZED STEEL, 14 GUAGE, 12' IN LENGTH",
+        "bachnumb": "031722WALTSPRI",
+        "qty": 5,
+        "issueDate": "2022-03-17T00:00:00"
+      },
+      {
+        "itemnmbr": "3161",
+        "itemdesc": "GUY STRAND, 10M,  ALUMINUM CLAD STEEL  (5/16\")  500' COIL",
+        "bachnumb": "031622NICKWARH",
+        "qty": 500,
+        "issueDate": "2022-03-16T00:00:00"
+      },
+      {
+        "itemnmbr": "0140",
+        "itemdesc": "ANCHOR, SCREW 15\" DISC (SWAMP)",
+        "bachnumb": "031622NICKWARH",
+        "qty": 3,
+        "issueDate": "2022-03-16T00:00:00"
+      },
+      {
+        "itemnmbr": "6056",
+        "itemdesc": "CABLE, JUMPER #4  7-STRAND BARE COPPER, 198' SPOOL",
+        "bachnumb": "031622NICKWARH",
+        "qty": 198,
+        "issueDate": "2022-03-16T00:00:00"
+      },
+      {
+        "itemnmbr": "6069",
+        "itemdesc": "CABLE, GROUND & JUMPER, #6, 7-STRAND BARE COPPER 315' SPOOL",
+        "bachnumb": "031622NICKWARH",
+        "qty": 2835,
+        "issueDate": "2022-03-16T00:00:00"
       }
     ],
-    "replaceItems": [
-      {
-        "itemnmbr": "4667",
-        "bachnumb": "061622TRUCK03",
-        "qty": 2.0,
-        "replaceDate": "2022-06-16T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
-      },
-      {
-        "itemnmbr": "4667",
-        "bachnumb": "061522TRUCK03",
-        "qty": 2.0,
-        "replaceDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
-      },
-      {
-        "itemnmbr": "4667",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "replaceDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
-      },
-      {
-        "itemnmbr": "4667",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "replaceDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
-      },
-      {
-        "itemnmbr": "4667",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "replaceDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
-      },
-      {
-        "itemnmbr": "4667",
-        "bachnumb": "061522TRUCK03",
-        "qty": 2.0,
-        "replaceDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
-      },
-      {
-        "itemnmbr": "4667",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "replaceDate": "2022-06-15T00:00:00",
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,"
-      }
-    ]
+    "replaceItems": []
   }
 ]

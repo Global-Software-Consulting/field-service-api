@@ -28,7 +28,9 @@ router.get("/warehouseList", (req, res) => {
 router.get("/serviceorders/:id", (req, res) => {
   return res.status(200).json(readJsonFile("serviceorders.json"));
 });
-
+router.get("/warehouseServiceOrders/:id", (req, res) => {
+  return res.status(200).json(readJsonFile("warehouseServiceOrders.json"));
+});
 router.get("/crewNotes/:id", (req, res) => {
   return res.status(200).json(readJsonFile("crewNotes.json"));
 });
@@ -42,8 +44,8 @@ router.get("/picklist/:id", (req, res) => {
   return res.status(200).json(readJsonFile("picklist.json"));
 });
 
-router.get("/compatibleUnitList", (req, res) => {
-  return res.status(200).json(readJsonFile("compatibleUnitList.json"));
+router.get("/cu", (req, res) => {
+  return res.status(200).json(readJsonFile("cu.json"));
 });
 
 router.get("/unpostedMaterial/:id", (req, res) => {
@@ -54,8 +56,8 @@ router.get("/history/:id", (req, res) => {
   return res.status(200).json(readJsonFile("history.json"));
 });
 
-router.get("/equipmentTransferSubmitted/:id", (req, res) => {
-  return res.status(200).json(readJsonFile("equipmentTransferSubmitted.json"));
+router.get("/submittedTransfers", (req, res) => {
+  return res.status(200).json(readJsonFile("submittedTransfers.json"));
 });
 
 router.get("/equipmentTransferHistory/:id", (req, res) => {
@@ -95,6 +97,21 @@ router.post("/setDefaultCrewID", (req, res) => {
       success: true,
     });
   }, 1000);
+});
+router.post("/submitPicklist", (req, res) => {
+  const { jobBoxLocation, status, workOrderId, pickList } = req.body;
+  setTimeout(() => {
+    return res.status(200).json({
+      success: true,
+      message: "Picklist submitted successfully.",
+      errorCode: 0,
+      documentData: null,
+      elapsed: "105", // ms or simulated
+    });
+  }, 1000);
+});
+router.get("/inventoryPickList", (req, res) => {
+  return res.status(200).json(readJsonFile("inventoryPicklist.json"));
 });
 
 module.exports = router;

@@ -1,99 +1,85 @@
 [
   {
-    "serviceOrderNumber": "SORD000W2102651",
+    "serviceOrderNumber": "SORD000W2004191",
     "issueItems": [
       {
-        "itemnmbr": "4002",
-        "bachnumb": "061622TRUCK03",
-        "qty": 1.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "issueDate": "2022-06-16T00:00:00"
+        "itemnmbr": "R0108",
+        "itemdesc": "P: 15.00 KV, VACUUM/OIL, V4L, 100.00 AMPS RECLOSER",
+        "bachnumb": "052522TRUCK35",
+        "qty": 1,
+        "issueDate": "2022-05-25T00:00:00"
       },
       {
-        "itemnmbr": "6061",
-        "bachnumb": "061622TRUCK03",
-        "qty": 40.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "issueDate": "2022-06-16T00:00:00"
+        "itemnmbr": "R0108",
+        "itemdesc": "P: 15.00 KV, VACUUM/OIL, V4L, 100.00 AMPS RECLOSER",
+        "bachnumb": "052522TRUCK35",
+        "qty": 1,
+        "issueDate": "2022-05-25T00:00:00"
       },
       {
-        "itemnmbr": "4661",
-        "bachnumb": "061622TRUCK03",
-        "qty": 2.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "issueDate": "2022-06-16T00:00:00"
+        "itemnmbr": "R0108",
+        "itemdesc": "P: 15.00 KV, VACUUM/OIL, V4L, 100.00 AMPS RECLOSER",
+        "bachnumb": "052522TRUCK35",
+        "qty": 1,
+        "issueDate": "2022-05-25T00:00:00"
       },
       {
-        "itemnmbr": "4001",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "issueDate": "2022-06-15T00:00:00"
+        "itemnmbr": "1961",
+        "itemdesc": "CLAMP, HOT LINE 1/0 COPPER - 8A",
+        "bachnumb": "052522TRUCK35",
+        "qty": 2,
+        "issueDate": "2022-05-25T00:00:00"
       },
       {
-        "itemnmbr": "6064",
-        "bachnumb": "061522TRUCK03",
-        "qty": 30.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "issueDate": "2022-06-15T00:00:00"
+        "itemnmbr": "T0324",
+        "itemdesc": "P: TX, PAD, 3PH, 1000KVA, LOOP, 277/480VT, 12470GRDY/7200VT",
+        "bachnumb": "051722TRUCK35",
+        "qty": 1,
+        "issueDate": "2022-05-17T00:00:00"
       },
       {
-        "itemnmbr": "4666",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "issueDate": "2022-06-15T00:00:00"
+        "itemnmbr": "4020",
+        "itemdesc": "POLE 40' CLASS 3",
+        "bachnumb": "051722TRUCK35",
+        "qty": 1,
+        "issueDate": "2022-05-17T00:00:00"
       }
     ],
     "replaceItems": [
       {
-        "itemnmbr": "4668",
-        "bachnumb": "061622TRUCK03",
-        "qty": 2.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "replaceDate": "2022-06-16T00:00:00"
+        "itemnmbr": "R0108",
+        "itemdesc": "P: 15.00 KV, VACUUM/OIL, V4L, 100.00 AMPS RECLOSER",
+        "bachnumb": "052522TRUCK35",
+        "qty": 1,
+        "replaceDate": "2022-05-25T00:00:00"
       },
       {
-        "itemnmbr": "4660",
-        "bachnumb": "061522TRUCK03",
-        "qty": 2.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "replaceDate": "2022-06-15T00:00:00"
+        "itemnmbr": "R0108",
+        "itemdesc": "P: 15.00 KV, VACUUM/OIL, V4L, 100.00 AMPS RECLOSER",
+        "bachnumb": "052522TRUCK35",
+        "qty": 1,
+        "replaceDate": "2022-05-25T00:00:00"
       },
       {
-        "itemnmbr": "4669",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "replaceDate": "2022-06-15T00:00:00"
+        "itemnmbr": "R0108",
+        "itemdesc": "P: 15.00 KV, VACUUM/OIL, V4L, 100.00 AMPS RECLOSER",
+        "bachnumb": "052522TRUCK35",
+        "qty": 1,
+        "replaceDate": "2022-05-25T00:00:00"
       },
       {
-        "itemnmbr": "4669",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "replaceDate": "2022-06-15T00:00:00"
+        "itemnmbr": "0501",
+        "itemdesc": "BOLT, CARRIAGE, 3/8\" X 8\"",
+        "bachnumb": "052522TRUCK35",
+        "qty": 3,
+        "replaceDate": "2022-05-25T00:00:00"
       },
       {
-        "itemnmbr": "4660",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "replaceDate": "2022-06-15T00:00:00"
-      },
-      {
-        "itemnmbr": "4663",
-        "bachnumb": "061522TRUCK03",
-        "qty": 2.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "replaceDate": "2022-06-15T00:00:00"
-      },
-      {
-        "itemnmbr": "4663",
-        "bachnumb": "061522TRUCK03",
-        "qty": 1.0,
-        "itemdesc": "ANCHOR BASE, PRECAST CONCRETE, FOR LIGHT POLES IN PARKING LOTS,",
-        "replaceDate": "2022-06-15T00:00:00"
+        "itemnmbr": "1961",
+        "itemdesc": "CLAMP, HOT LINE 1/0 COPPER - 8A",
+        "bachnumb": "052522TRUCK35",
+        "qty": 2,
+        "replaceDate": "2022-05-25T00:00:00"
       }
     ]
   }

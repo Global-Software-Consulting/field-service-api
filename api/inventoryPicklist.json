@@ -1,0 +1,134 @@
+[
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "9482",
+        "itemdesc": "BOX PAD FOR 1PH TRANSFORMER, 37\"X43\"X15\"  OPENING: 22\" X 26\"",
+        "bin": "YARD",
+        "qtYoutstanding": 4,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 4
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "T0022",
+        "itemdesc": "P: TX, OH, 1PH, 15KVA, SB, 120/240VT, 12470GRDY/7200VT",
+        "bin": "YARD",
+        "qtYoutstanding": 2,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 2
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "T0102",
+        "itemdesc": "P: TX, PAD, 1PH, 15KVA, LOOP, 120/240VT, 12470GRDY/7200VT",
+        "bin": "YARD",
+        "qtYoutstanding": 1,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 1
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "T0106",
+        "itemdesc": "P: TX, PAD, 1PH, 25KVA, LOOP, 120/240VT, 12470GRDY/7200VT",
+        "bin": "YARD",
+        "qtYoutstanding": 1,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 1
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "T0110",
+        "itemdesc": "P: TX, PAD, 1PH, 37.5KVA, LOOP, 120/240VT, 12470GRDY/7200VT",
+        "bin": "YARD",
+        "qtYoutstanding": 1,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 1
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "T0112",
+        "itemdesc": "P: TX, PAD, 1PH, 50KVA, LOOP, 120/240VT, 12470GRDY/7200VT",
+        "bin": "YARD",
+        "qtYoutstanding": 1,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 1
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "10208",
+        "itemdesc": "2\" FLEX CONDUIT RED W/1250LB POLY TAPE 250FT COIL",
+        "bin": "YARD",
+        "qtYoutstanding": 815,
+        "uofm": "FT",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 815
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "10544",
+        "itemdesc": "CULVERT,30\" DIA, SPIRAL, GALVANIZED STEEL, 14 GUAGE, 12' IN LENGTH",
+        "bin": "YARD",
+        "qtYoutstanding": 1,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 1
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "1308",
+        "itemdesc": "BRACE, CROSSARM, FOR 60\" SPAN",
+        "bin": "YARD",
+        "qtYoutstanding": 2,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 2
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "2507",
+        "itemdesc": "CROSSARM, WOOD 3-3/4\" X 4-3/4\" X 8'",
+        "bin": "YARD",
+        "qtYoutstanding": 1,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 1
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "4020",
+        "itemdesc": "POLE 40' CLASS 3",
+        "bin": "YARD",
+        "qtYoutstanding": 3,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 3
+    },
+    {
+        "cmgprjconsnumber": "W2300812",
+        "itemnmbr": "4034",
+        "itemdesc": "POLE 45' CLASS 3",
+        "bin": "YARD",
+        "qtYoutstanding": 1,
+        "uofm": "EA",
+        "actQty": 0,
+        "issueQty": 0,
+        "planQty": 1
+    }
+]
